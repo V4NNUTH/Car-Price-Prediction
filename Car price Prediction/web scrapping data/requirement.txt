@@ -1,0 +1,4 @@
+pandas
+urllib
+bs4
+numpy
