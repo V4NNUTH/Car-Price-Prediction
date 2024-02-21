@@ -8,3 +8,6 @@ Lasso Regression Model
 Polynomial Regression Model
 Ridge Poly Regression Model
 Lasso Poly Regression Model
+
+![image](https://github.com/V4NNUTH/Car-Price-Prediction/assets/113205407/8218f3e6-6a05-4d33-a7bc-b955f1afc692)
+
